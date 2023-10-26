@@ -18,7 +18,7 @@ license: CC-BY-SA-3.0 # https://www.hl7.org/fhir/valueset-spdx-license.html
 publisher:
   name: Antarcica Penguin Research Super Team
   url: http://antartica.penguin
-  # email: test@example.org
+  # email: test@example.org#
 
 # The dependencies property corresponds to IG.dependsOn. The key is the
 # package id and the value is the version (or dev/current). For advanced
